@@ -1,5 +1,4 @@
-server:
-  port: 8001
+  profile: dev
 
 config:
   info: 111333222
